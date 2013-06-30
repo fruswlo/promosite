@@ -1,0 +1,450 @@
+TNetShopInfo
+v7
+r0
+t392968389.719019
+cCheck dependencies
+cProcessInfoPlistFile /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/Info.plist NetShopInfo-Info.plist
+cCompileXIB /Developer/Applications/MyApps/NetShopInfo/MainWindow.xib
+cCompileXIB /Developer/Applications/MyApps/NetShopInfo/NetShopInfoViewController.xib
+cCpResource build/Debug-iphonesimulator/NetShopInfo.app/お問い合わせ.png /Users/DIO/Documents/Official/EStore/AppsResource/お問い合わせ.png
+cCpResource build/Debug-iphonesimulator/NetShopInfo.app/開店前ー６.png /Users/DIO/Documents/Official/EStore/AppsResource/開店前ー６.png
+cCpResource build/Debug-iphonesimulator/NetShopInfo.app/開店前ー５.png /Users/DIO/Documents/Official/EStore/AppsResource/開店前ー５.png
+cCpResource build/Debug-iphonesimulator/NetShopInfo.app/開店前ー４.png /Users/DIO/Documents/Official/EStore/AppsResource/開店前ー４.png
+cCpResource build/Debug-iphonesimulator/NetShopInfo.app/開店前ー３.png /Users/DIO/Documents/Official/EStore/AppsResource/開店前ー３.png
+cCpResource build/Debug-iphonesimulator/NetShopInfo.app/開店前ー２.png /Users/DIO/Documents/Official/EStore/AppsResource/開店前ー２.png
+cCpResource build/Debug-iphonesimulator/NetShopInfo.app/開店前ー１.png /Users/DIO/Documents/Official/EStore/AppsResource/開店前ー１.png
+cCpResource build/Debug-iphonesimulator/NetShopInfo.app/開店前後.png /Users/DIO/Documents/Official/EStore/AppsResource/開店前後.png
+cCpResource build/Debug-iphonesimulator/NetShopInfo.app/開店前.png /Users/DIO/Documents/Official/EStore/AppsResource/開店前.png
+cCpResource build/Debug-iphonesimulator/NetShopInfo.app/開店後.png /Users/DIO/Documents/Official/EStore/AppsResource/開店後.png
+cProcessPCH /var/folders/-L/-LcfGhNnEhyKYfywyjNDvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NetShopInfo_Prefix-aehglzzwrzbptzbdxsbpkddzvfss/NetShopInfo_Prefix.pch.gch NetShopInfo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/Objects-normal/i386/main.o /Developer/Applications/MyApps/NetShopInfo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/Objects-normal/i386/NetShopInfoAppDelegate.o /Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/Objects-normal/i386/NetShopInfoViewController.o /Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/NetShopInfo normal i386
+cGenerateDSYMFile /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app.dSYM /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/NetShopInfo
+cTouch /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app
+
+N/Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoAppDelegate.h
+c0000000051BBFEB100000000000001ED
+t1371274929
+s493
+i<UIKit/UIKit.h>
+
+N/Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoAppDelegate.m
+c0000000051BBFEB10000000000000AB4
+t1371274929
+s2740
+i"NetShopInfoAppDelegate.h"
+i"NetShopInfoViewController.h"
+
+N/Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoViewController.h
+c0000000051BC011B0000000000000137
+t1371275547
+s311
+i<UIKit/UIKit.h>
+
+N/Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoViewController.m
+c0000000051BBFEB100000000000005C7
+t1371274929
+s1479
+i"NetShopInfoViewController.h"
+
+N/Developer/Applications/MyApps/NetShopInfo/MainWindow.xib
+c0000000051BBFEB20000000000004E59
+t1371274930
+s20057
+
+N/Developer/Applications/MyApps/NetShopInfo/NetShopInfoViewController.xib
+c0000000051BBFEB20000000000001A55
+t1371274930
+s6741
+
+N/Developer/Applications/MyApps/NetShopInfo/NetShopInfo_Prefix.pch
+c0000000051BBFEB200000000000000BF
+t1371274930
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app
+t1371275589
+s578
+
+N/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app.dSYM
+t1371275589
+s102
+
+N/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/Info.plist
+t1371275587
+s607
+
+N/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/MainWindow.nib
+t1371275588
+s1689
+
+N/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/NetShopInfo
+t1371275589
+s17300
+
+N/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/NetShopInfoViewController.nib
+t1371275588
+s1269
+
+N/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/PkgInfo
+t1371275587
+s8
+
+N/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/お問い合わせ.png
+t1371275588
+s69908
+
+N/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/開店前.png
+t1371275588
+s20802
+
+N/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/開店前ー１.png
+t1371275588
+s10358
+
+N/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/開店前ー２.png
+t1371275588
+s9502
+
+N/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/開店前ー３.png
+t1371275588
+s9537
+
+N/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/開店前ー４.png
+t1371275588
+s8647
+
+N/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/開店前ー５.png
+t1371275588
+s8751
+
+N/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/開店前ー６.png
+t1371275588
+s10301
+
+N/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/開店前後.png
+t1371275588
+s20699
+
+N/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/開店後.png
+t1371275588
+s21434
+
+N/Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/Objects-normal/i386/NetShopInfo.LinkFileList
+c0000000051BC014300000000000001B9
+t1371275587
+s441
+
+N/Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/Objects-normal/i386/NetShopInfoAppDelegate.o
+t1371275589
+s51552
+
+N/Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/Objects-normal/i386/NetShopInfoViewController.o
+t1371275589
+s38036
+
+N/Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/Objects-normal/i386/main.o
+t1371275589
+s6320
+
+N/Developer/Applications/MyApps/NetShopInfo/main.m
+c0000000051BBFEB20000000000000163
+t1371274930
+s355
+i<UIKit/UIKit.h>
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/DIO/Documents/Official/EStore/AppsResource/お問い合わせ.png
+c0000000051BBFB6F0000000000011114
+t1371274095
+s69908
+
+N/Users/DIO/Documents/Official/EStore/AppsResource/開店前.png
+c0000000051BBC6FA0000000000005142
+t1371260666
+s20802
+
+N/Users/DIO/Documents/Official/EStore/AppsResource/開店前ー１.png
+c0000000051BBCE280000000000002876
+t1371262504
+s10358
+
+N/Users/DIO/Documents/Official/EStore/AppsResource/開店前ー２.png
+c0000000051BBCE8F000000000000251E
+t1371262607
+s9502
+
+N/Users/DIO/Documents/Official/EStore/AppsResource/開店前ー３.png
+c0000000051BBCF090000000000002541
+t1371262729
+s9537
+
+N/Users/DIO/Documents/Official/EStore/AppsResource/開店前ー４.png
+c0000000051BBCF6200000000000021C7
+t1371262818
+s8647
+
+N/Users/DIO/Documents/Official/EStore/AppsResource/開店前ー５.png
+c0000000051BBCFA9000000000000222F
+t1371262889
+s8751
+
+N/Users/DIO/Documents/Official/EStore/AppsResource/開店前ー６.png
+c0000000051BBCFF7000000000000283D
+t1371262967
+s10301
+
+N/Users/DIO/Documents/Official/EStore/AppsResource/開店前後.png
+c0000000051BBC72C00000000000050DB
+t1371260716
+s20699
+
+N/Users/DIO/Documents/Official/EStore/AppsResource/開店後.png
+c0000000051BBC6D800000000000053BA
+t1371260632
+s21434
+
+N/var/folders/-L/-LcfGhNnEhyKYfywyjNDvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NetShopInfo_Prefix-aehglzzwrzbptzbdxsbpkddzvfss/NetShopInfo_Prefix.pch.gch
+t1371275589
+s15814064
+
+NNetShopInfo-Info.plist
+c0000000051BBFEB2000000000000038D
+t1371274930
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies392968387#392968387#0(0"0(0#1#0"32651522506817640#0"0#
+
+CCompileC build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/Objects-normal/i386/NetShopInfoAppDelegate.o /Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s392968389.525388
+e392968389.636045
+r1
+xCompileC
+xbuild/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/Objects-normal/i386/NetShopInfoAppDelegate.o
+x/Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoAppDelegate.m392968389#392968389#0(0"0(0#0#75"/Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoAppDelegate.m8611930624#2082"    cd /Developer/Applications/MyApps/NetShopInfo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/NetShopInfo-generated-files.hmap -I/Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/NetShopInfo-own-target-headers.hmap -I/Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/NetShopInfo-all-target-headers.hmap -iquote /Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/NetShopInfo-project-headers.hmap -F/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator -I/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/include -I/Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/DerivedSources/i386 -I/Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/DerivedSources -include /var/folders/-L/-LcfGhNnEhyKYfywyjNDvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NetShopInfo_Prefix-aehglzzwrzbptzbdxsbpkddzvfss/NetShopInfo_Prefix.pch -c /Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoAppDelegate.m -o /Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/Objects-normal/i386/NetShopInfoAppDelegate.o0#
+
+CCompileC build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/Objects-normal/i386/NetShopInfoViewController.o /Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s392968389.592406
+e392968389.666676
+r1
+xCompileC
+xbuild/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/Objects-normal/i386/NetShopInfoViewController.o
+x/Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoViewController.m:66: warning: incomplete implementation of class 'NetShopInfoViewController'
+o/Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoViewController.m:66: warning: method definition for '-kaitenMaeAto' not found
+o/Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoViewController.m:66: warning: method definition for '-kaitenAto' not found
+o/Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoViewController.m:66: warning: method definition for '-kaitenMae' not found
+lSLF07#2@86"Compile /Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoViewController.m392968389#392968389#0(569"/Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoViewController.m:66: warning: incomplete implementation of class 'NetShopInfoViewController'/Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoViewController.m:66: warning: method definition for '-kaitenMaeAto' not found/Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoViewController.m:66: warning: method definition for '-kaitenAto' not found/Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoViewController.m:66: warning: method definition for '-kaitenMae' not found4(22@62"Incomplete implementation of class 'NetShopInfoViewController'392968389#0#155#0(6@78"/Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoViewController.m392967729#66#0#66#0#38"incomplete implementation of class '*'0(22@47"Method definition for '-kaitenMaeAto' not found392968389#155#140#0(6@78"/Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoViewController.m392967729#66#0#66#0#35"method definition for '*' not found0(22@44"Method definition for '-kaitenAto' not found392968389#295#137#0(6@78"/Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoViewController.m392967729#66#0#66#0#35"method definition for '*' not found0(22@44"Method definition for '-kaitenMae' not found392968389#432#137#0(6@78"/Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoViewController.m392967729#66#0#66#0#35"method definition for '*' not found0(0#0#78"/Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoViewController.m8612429600#2088"    cd /Developer/Applications/MyApps/NetShopInfo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/NetShopInfo-generated-files.hmap -I/Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/NetShopInfo-own-target-headers.hmap -I/Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/NetShopInfo-all-target-headers.hmap -iquote /Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/NetShopInfo-project-headers.hmap -F/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator -I/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/include -I/Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/DerivedSources/i386 -I/Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/DerivedSources -include /var/folders/-L/-LcfGhNnEhyKYfywyjNDvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NetShopInfo_Prefix-aehglzzwrzbptzbdxsbpkddzvfss/NetShopInfo_Prefix.pch -c /Developer/Applications/MyApps/NetShopInfo/Classes/NetShopInfoViewController.m -o /Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/Objects-normal/i386/NetShopInfoViewController.o0#
+
+CCompileC build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/Objects-normal/i386/main.o /Developer/Applications/MyApps/NetShopInfo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s392968389.524145
+e392968389.592304
+r1
+xCompileC
+xbuild/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/Objects-normal/i386/main.o
+x/Developer/Applications/MyApps/NetShopInfo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Developer/Applications/MyApps/NetShopInfo/main.m392968389#392968389#0(0"0(0#0#49"/Developer/Applications/MyApps/NetShopInfo/main.m8612870176#2038"    cd /Developer/Applications/MyApps/NetShopInfo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/NetShopInfo-generated-files.hmap -I/Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/NetShopInfo-own-target-headers.hmap -I/Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/NetShopInfo-all-target-headers.hmap -iquote /Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/NetShopInfo-project-headers.hmap -F/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator -I/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/include -I/Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/DerivedSources/i386 -I/Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/DerivedSources -include /var/folders/-L/-LcfGhNnEhyKYfywyjNDvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NetShopInfo_Prefix-aehglzzwrzbptzbdxsbpkddzvfss/NetShopInfo_Prefix.pch -c /Developer/Applications/MyApps/NetShopInfo/main.m -o /Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Developer/Applications/MyApps/NetShopInfo/MainWindow.xib
+s392968387.686486
+e392968388.198938
+r1
+xCompileXIB
+x/Developer/Applications/MyApps/NetShopInfo/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib392968387#392968388#0(0"0(0#0#57"/Developer/Applications/MyApps/NetShopInfo/MainWindow.xib8613074560#586"    cd /Developer/Applications/MyApps/NetShopInfo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/MainWindow.nib /Developer/Applications/MyApps/NetShopInfo/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Developer/Applications/MyApps/NetShopInfo/NetShopInfoViewController.xib
+s392968387.687866
+e392968388.098470
+r1
+xCompileXIB
+x/Developer/Applications/MyApps/NetShopInfo/NetShopInfoViewController.xib
+lSLF07#2@40"CompileXIB NetShopInfoViewController.xib392968387#392968388#0(0"0(0#0#72"/Developer/Applications/MyApps/NetShopInfo/NetShopInfoViewController.xib8613051328#616"    cd /Developer/Applications/MyApps/NetShopInfo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/NetShopInfoViewController.nib /Developer/Applications/MyApps/NetShopInfo/NetShopInfoViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/NetShopInfo.app/お問い合わせ.png /Users/DIO/Documents/Official/EStore/AppsResource/お問い合わせ.png
+s392968388.098567
+e392968388.108402
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NetShopInfo.app/お問い合わせ.png
+x/Users/DIO/Documents/Official/EStore/AppsResource/お問い合わせ.png
+lSLF07#2@77"Copy /Users/DIO/Documents/Official/EStore/AppsResource/お問い合わせ.png392968388#392968388#0(0"0(0#0#72"/Users/DIO/Documents/Official/EStore/AppsResource/お問い合わせ.png8612430208#503"    cd /Developer/Applications/MyApps/NetShopInfo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/DIO/Documents/Official/EStore/AppsResource/お問い合わせ.png /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app0#
+
+CCpResource build/Debug-iphonesimulator/NetShopInfo.app/開店前.png /Users/DIO/Documents/Official/EStore/AppsResource/開店前.png
+s392968388.106247
+e392968388.120433
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NetShopInfo.app/開店前.png
+x/Users/DIO/Documents/Official/EStore/AppsResource/開店前.png
+lSLF07#2@68"Copy /Users/DIO/Documents/Official/EStore/AppsResource/開店前.png392968388#392968388#0(0"0(0#0#63"/Users/DIO/Documents/Official/EStore/AppsResource/開店前.png8613134688#494"    cd /Developer/Applications/MyApps/NetShopInfo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/DIO/Documents/Official/EStore/AppsResource/開店前.png /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app0#
+
+CCpResource build/Debug-iphonesimulator/NetShopInfo.app/開店前ー１.png /Users/DIO/Documents/Official/EStore/AppsResource/開店前ー１.png
+s392968388.102598
+e392968388.120298
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NetShopInfo.app/開店前ー１.png
+x/Users/DIO/Documents/Official/EStore/AppsResource/開店前ー１.png
+lSLF07#2@74"Copy /Users/DIO/Documents/Official/EStore/AppsResource/開店前ー１.png392968388#392968388#0(0"0(0#0#69"/Users/DIO/Documents/Official/EStore/AppsResource/開店前ー１.png8612841664#500"    cd /Developer/Applications/MyApps/NetShopInfo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/DIO/Documents/Official/EStore/AppsResource/開店前ー１.png /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app0#
+
+CCpResource build/Debug-iphonesimulator/NetShopInfo.app/開店前ー２.png /Users/DIO/Documents/Official/EStore/AppsResource/開店前ー２.png
+s392968388.101896
+e392968388.130313
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NetShopInfo.app/開店前ー２.png
+x/Users/DIO/Documents/Official/EStore/AppsResource/開店前ー２.png
+lSLF07#2@74"Copy /Users/DIO/Documents/Official/EStore/AppsResource/開店前ー２.png392968388#392968388#0(0"0(0#0#69"/Users/DIO/Documents/Official/EStore/AppsResource/開店前ー２.png8612450624#500"    cd /Developer/Applications/MyApps/NetShopInfo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/DIO/Documents/Official/EStore/AppsResource/開店前ー２.png /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app0#
+
+CCpResource build/Debug-iphonesimulator/NetShopInfo.app/開店前ー３.png /Users/DIO/Documents/Official/EStore/AppsResource/開店前ー３.png
+s392968388.101268
+e392968388.115752
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NetShopInfo.app/開店前ー３.png
+x/Users/DIO/Documents/Official/EStore/AppsResource/開店前ー３.png
+lSLF07#2@74"Copy /Users/DIO/Documents/Official/EStore/AppsResource/開店前ー３.png392968388#392968388#0(0"0(0#0#69"/Users/DIO/Documents/Official/EStore/AppsResource/開店前ー３.png8611853504#500"    cd /Developer/Applications/MyApps/NetShopInfo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/DIO/Documents/Official/EStore/AppsResource/開店前ー３.png /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app0#
+
+CCpResource build/Debug-iphonesimulator/NetShopInfo.app/開店前ー４.png /Users/DIO/Documents/Official/EStore/AppsResource/開店前ー４.png
+s392968388.100642
+e392968388.123757
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NetShopInfo.app/開店前ー４.png
+x/Users/DIO/Documents/Official/EStore/AppsResource/開店前ー４.png
+lSLF07#2@74"Copy /Users/DIO/Documents/Official/EStore/AppsResource/開店前ー４.png392968388#392968388#0(0"0(0#0#69"/Users/DIO/Documents/Official/EStore/AppsResource/開店前ー４.png8612825088#500"    cd /Developer/Applications/MyApps/NetShopInfo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/DIO/Documents/Official/EStore/AppsResource/開店前ー４.png /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app0#
+
+CCpResource build/Debug-iphonesimulator/NetShopInfo.app/開店前ー５.png /Users/DIO/Documents/Official/EStore/AppsResource/開店前ー５.png
+s392968388.100026
+e392968388.113923
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NetShopInfo.app/開店前ー５.png
+x/Users/DIO/Documents/Official/EStore/AppsResource/開店前ー５.png
+lSLF07#2@74"Copy /Users/DIO/Documents/Official/EStore/AppsResource/開店前ー５.png392968388#392968388#0(0"0(0#0#69"/Users/DIO/Documents/Official/EStore/AppsResource/開店前ー５.png8612525632#500"    cd /Developer/Applications/MyApps/NetShopInfo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/DIO/Documents/Official/EStore/AppsResource/開店前ー５.png /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app0#
+
+CCpResource build/Debug-iphonesimulator/NetShopInfo.app/開店前ー６.png /Users/DIO/Documents/Official/EStore/AppsResource/開店前ー６.png
+s392968388.099370
+e392968388.110447
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NetShopInfo.app/開店前ー６.png
+x/Users/DIO/Documents/Official/EStore/AppsResource/開店前ー６.png
+lSLF07#2@74"Copy /Users/DIO/Documents/Official/EStore/AppsResource/開店前ー６.png392968388#392968388#0(0"0(0#0#69"/Users/DIO/Documents/Official/EStore/AppsResource/開店前ー６.png8611859104#500"    cd /Developer/Applications/MyApps/NetShopInfo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/DIO/Documents/Official/EStore/AppsResource/開店前ー６.png /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app0#
+
+CCpResource build/Debug-iphonesimulator/NetShopInfo.app/開店前後.png /Users/DIO/Documents/Official/EStore/AppsResource/開店前後.png
+s392968388.104460
+e392968388.126257
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NetShopInfo.app/開店前後.png
+x/Users/DIO/Documents/Official/EStore/AppsResource/開店前後.png
+lSLF07#2@71"Copy /Users/DIO/Documents/Official/EStore/AppsResource/開店前後.png392968388#392968388#0(0"0(0#0#66"/Users/DIO/Documents/Official/EStore/AppsResource/開店前後.png8613117664#497"    cd /Developer/Applications/MyApps/NetShopInfo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/DIO/Documents/Official/EStore/AppsResource/開店前後.png /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app0#
+
+CCpResource build/Debug-iphonesimulator/NetShopInfo.app/開店後.png /Users/DIO/Documents/Official/EStore/AppsResource/開店後.png
+s392968388.108486
+e392968388.127691
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NetShopInfo.app/開店後.png
+x/Users/DIO/Documents/Official/EStore/AppsResource/開店後.png
+lSLF07#2@68"Copy /Users/DIO/Documents/Official/EStore/AppsResource/開店後.png392968388#392968388#0(0"0(0#0#63"/Users/DIO/Documents/Official/EStore/AppsResource/開店後.png8612959968#494"    cd /Developer/Applications/MyApps/NetShopInfo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/DIO/Documents/Official/EStore/AppsResource/開店後.png /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app0#
+
+CGenerateDSYMFile /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app.dSYM /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/NetShopInfo
+s392968389.698513
+e392968389.715317
+r1
+xGenerateDSYMFile
+x/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app.dSYM
+x/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/NetShopInfo
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/NetShopInfo.app.dSYM build/Debug-iphonesimulator/NetShopInfo.app/NetShopInfo392968389#392968389#0(0"0(0#0#98"/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/NetShopInfo8612612896#407"    cd /Developer/Applications/MyApps/NetShopInfo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/NetShopInfo -o /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app.dSYM0#
+
+CLd /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/NetShopInfo normal i386
+s392968389.666773
+e392968389.698411
+r1
+xLd
+x/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/NetShopInfo
+xnormal
+xi386
+lSLF07#2@103"Link /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/NetShopInfo392968389#392968389#0(0"0(0#0#0"8612045760#940"    cd /Developer/Applications/MyApps/NetShopInfo    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator -F/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator -filelist /Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/Objects-normal/i386/NetShopInfo.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/NetShopInfo0#
+
+CProcessInfoPlistFile /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/Info.plist NetShopInfo-Info.plist
+s392968387.649419
+e392968387.686381
+r1
+xProcessInfoPlistFile
+x/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/Info.plist
+xNetShopInfo-Info.plist
+lSLF07#2@30"Process NetShopInfo-Info.plist392968387#392968387#0(0"0(0#0#65"/Developer/Applications/MyApps/NetShopInfo/NetShopInfo-Info.plist12666816341278818#503"    cd /Developer/Applications/MyApps/NetShopInfo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility NetShopInfo-Info.plist -genpkginfo /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app/Info.plist0#
+
+CProcessPCH /var/folders/-L/-LcfGhNnEhyKYfywyjNDvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NetShopInfo_Prefix-aehglzzwrzbptzbdxsbpkddzvfss/NetShopInfo_Prefix.pch.gch NetShopInfo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s392968388.199131
+e392968389.523968
+r1
+xProcessPCH
+x/var/folders/-L/-LcfGhNnEhyKYfywyjNDvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NetShopInfo_Prefix-aehglzzwrzbptzbdxsbpkddzvfss/NetShopInfo_Prefix.pch.gch
+xNetShopInfo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile NetShopInfo_Prefix.pch392968388#392968389#0(0"0(0#0#65"/Developer/Applications/MyApps/NetShopInfo/NetShopInfo_Prefix.pch8612529472#1922"    cd /Developer/Applications/MyApps/NetShopInfo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/NetShopInfo-generated-files.hmap -I/Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/NetShopInfo-own-target-headers.hmap -I/Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/NetShopInfo-all-target-headers.hmap -iquote /Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/NetShopInfo-project-headers.hmap -F/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator -I/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/include -I/Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/DerivedSources/i386 -I/Developer/Applications/MyApps/NetShopInfo/build/NetShopInfo.build/Debug-iphonesimulator/NetShopInfo.build/DerivedSources -c /Developer/Applications/MyApps/NetShopInfo/NetShopInfo_Prefix.pch -o /var/folders/-L/-LcfGhNnEhyKYfywyjNDvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NetShopInfo_Prefix-aehglzzwrzbptzbdxsbpkddzvfss/NetShopInfo_Prefix.pch.gch0#
+
+CTouch /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app
+s392968389.715407
+e392968389.718963
+r1
+xTouch
+x/Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app
+lSLF07#2@92"Touch /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app392968389#392968389#0(0"0(0#0#0"8612074912#290"    cd /Developer/Applications/MyApps/NetShopInfo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Developer/Applications/MyApps/NetShopInfo/build/Debug-iphonesimulator/NetShopInfo.app0#
+
